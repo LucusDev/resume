@@ -18,8 +18,8 @@
 
 ## LuckyWheel
 
-- download link = ...
-- github repo = ...
+- download link = https://github.com/LucusDev/luckywheel/releases/download/luckywheel/luckywheel.apk
+- github repo = https://github.com/LucusDev/luckywheel.git
 - website for preview = ...
 
 ## MindMap
