@@ -1,6 +1,41 @@
-# 🚀 Projects Showcase
+# 👋 Hi, I'm LucasDev
 
-A collection of my apps, experiments, and concepts.
+**Flutter & Full-Stack Developer** — building mobile, web, and desktop apps with clean architecture and great UX.
+
+> 🔭 _Thailand_ · 🌐 _[https://bylucas.tech/](https://bylucas.tech/)_
+
+---
+
+## 📋 Table of Contents
+
+- [🛠 Skills](#-skills)
+- [📱 Featured Projects](#-featured-projects)
+  - [Mmxianxia](#mmxianxia)
+  - [Metta Associates](#metta-associates)
+  - [Lango](#lango)
+  - [Dropadoo](#dropadoo)
+  - [Movie App](#movie-app)
+- [🧪 Concept / Mini Apps](#-concept--mini-apps)
+  - [V2 (Dropped)](#v2-dropped)
+  - [V1 (Legacy)](#v1-legacy)
+  - [💡 LuckyWheel](#-luckywheel)
+  - [💡 MindMap](#-mindmap)
+  - [💡 Puzzle App](#-puzzle-app)
+- [📬 Contact](#-contact)
+
+---
+
+## 🛠 Skills
+
+| Category             | Technologies                                              |
+| -------------------- | --------------------------------------------------------- |
+| **Mobile**           | Flutter, Dart, Android, iOS                               |
+| **Web**              | Next.js, React, TypeScript, HTML/CSS                      |
+| **State Management** | Bloc, Provider                                            |
+| **Backend**          | Firebase, REST APIs, WordPress, PHP                       |
+| **Architecture**     | Clean Architecture, Unit/Integration Testing              |
+| **DevOps**           | GitHub Actions (CI/CD), App Store / Play Store deployment |
+| **Tools**            | Git, VS Code, Android Studio, Xcode, AI Tools             |
 
 ---
 
@@ -31,7 +66,20 @@ This is a freelance project that I developed for a client. The client already ha
 
 #### 🧠 What I Learned
 
-Since this is a big project with real users, I learned a lot about Flutter and Bloc. Since the client already has a website in Wordpress, I have to learn how to develop Wordpress plugins and edit in PHP so that I can develop and get data from the Wordpress api securely. I also learned about how to structure a Flutter project, how to use Bloc to manage state, and how to handle network requests. I also learned how to secure a Flutter application since it has paid contents that needs protection from things such as screenshots, recordings, etc... I also learned a lot about Flutter's performance optimization techniques since majority of our users have weak devices. I also have to solve a lot bugs and issues that arise from real users.
+- Flutter & Bloc state management at production scale
+- WordPress plugin development & PHP API integration
+- App security — anti-screenshot / anti-recording for paid content
+- Performance optimization for low-end devices
+- Real-user bug fixing & production debugging
+
+<details>
+<summary>📝 Read more</summary>
+
+<br>
+
+Since this is a big project with real users, I learned a lot about Flutter and Bloc. Since the client already has a website in WordPress, I had to learn how to develop WordPress plugins and edit in PHP so that I could develop and get data from the WordPress API securely. I also learned about how to structure a Flutter project, how to use Bloc to manage state, and how to handle network requests. I also learned how to secure a Flutter application since it has paid contents that need protection from things such as screenshots, recordings, etc. I also learned a lot about Flutter's performance optimization techniques since the majority of our users have weak devices. I also had to solve a lot of bugs and issues that arise from real users.
+
+</details>
 
 #### 🔗 Links
 
@@ -57,7 +105,7 @@ Since this is a big project with real users, I learned a lot about Flutter and B
 
 #### 📖 Description
 
-This project is developed by me and one other friend to showcase the company's products and services. The company already has a website in Wix but they want to have a more professional and customizable website that can show their products and services in a better way. We replicate and improve the existing website using Next.js and Firebase. They also want a content editor which allows them to update the website content without having to touch the code.
+This project was developed by me and one other friend to showcase the company's products and services. The company already had a website in Wix but wanted a more professional and customizable website that could show their products and services in a better way. We replicated and improved the existing website using Next.js and Firebase. They also wanted a content editor which allows them to update the website content without having to touch the code.
 
 #### ✨ Key Features
 
@@ -67,7 +115,19 @@ This project is developed by me and one other friend to showcase the company's p
 
 #### 🧠 What I Learned
 
-I already have a lot of experience working with Web Development but at the time of developing this project, I was just starting to learn Next.js. I learned a lot about how to structure a Next.js project, how Next.js works internally, and how to use Firebase to host a website. I also learned a lot about developing a content editor and how to sever-side render the blog posts which is important for SEO. I also learned a lot about CI/CD piplines for Next.js projects and how to set up a pipeline to deploy the website to Firebase.
+- Next.js project structure & internal workings
+- Firebase Hosting & Authentication
+- Content editor with server-side rendering for SEO
+- CI/CD pipeline setup for Next.js deployment to Firebase
+
+<details>
+<summary>📝 Read more</summary>
+
+<br>
+
+I already had a lot of experience working with Web Development but at the time of developing this project, I was just starting to learn Next.js. I learned a lot about how to structure a Next.js project, how Next.js works internally, and how to use Firebase to host a website. I also learned a lot about developing a content editor and how to server-side render the blog posts which is important for SEO. I also learned a lot about CI/CD pipelines for Next.js projects and how to set up a pipeline to deploy the website to Firebase.
+
+</details>
 
 #### 🔗 Links
 
@@ -76,15 +136,15 @@ I already have a lot of experience working with Web Development but at the time 
 
 #### 🖼 Preview
 
-<img width="1470" height="834" alt="Home Page" src="https://github.com/user-attachments/assets/b3039ea3-1663-45de-9b40-44fc2051bfbf" />
-<img width="1470" height="834" alt="Blog List Page" src="https://github.com/user-attachments/assets/18efbed6-a4df-4ad8-ac19-3757133da375" />
-<img width="1470" height="834" alt="Blog Edit Page" src="https://github.com/user-attachments/assets/39248829-f66b-470b-83a9-02516f19a6d1" />
+![Home Page](https://github.com/user-attachments/assets/b3039ea3-1663-45de-9b40-44fc2051bfbf)
+![Blog List Page](https://github.com/user-attachments/assets/18efbed6-a4df-4ad8-ac19-3757133da375)
+![Blog Edit Page](https://github.com/user-attachments/assets/39248829-f66b-470b-83a9-02516f19a6d1)
 
 ---
 
 ### Lango
 
-**Ai-powered Language Learning App**
+**AI-powered Language Learning App**
 
 - 🛠 **Tech Stack:** Flutter, Firebase, REST API, etc.
 - 📦 **Platform:** Android / iOS
@@ -103,7 +163,19 @@ This project is part of my work from the old company where I worked as a Flutter
 
 #### 🧠 What I Learned
 
-I was the lead developer for migrating this application from Flutter 1 to Flutter 2. I learned a lot about how to migrate a Flutter application from one version to another, how to use the new features in Flutter 2, and how to optimize the performance of the application. I also learned how to handle and upgrade package dependencies. I also lead and worked on features such as Improve sections and Role-play exercises. I also worked on a lot of bug fixes and performance improvements.
+- Flutter 1 to Flutter 2 migration at scale
+- Package dependency management & version upgrades
+- Feature development — Improve sections & Role-play exercises
+- Performance optimization & large-scale bug fixing
+
+<details>
+<summary>📝 Read more</summary>
+
+<br>
+
+I was the lead developer for migrating this application from Flutter 1 to Flutter 2. I learned a lot about how to migrate a Flutter application from one version to another, how to use the new features in Flutter 2, and how to optimize the performance of the application. I also learned how to handle and upgrade package dependencies. I also led and worked on features such as Improve sections and Role-play exercises. I also worked on a lot of bug fixes and performance improvements.
+
+</details>
 
 #### 🔗 Links
 
@@ -121,24 +193,35 @@ I was the lead developer for migrating this application from Flutter 1 to Flutte
 
 ### Dropadoo
 
-**A drag and drop file sender app**
+**A drag-and-drop file sender app**
 
 - 🛠 **Tech Stack:** Flutter
-- 📦 **Platform:** Mac Os
+- 📦 **Platform:** macOS
 - 🧑‍💻 **Role:** Lead Developer
 
 #### 📖 Description
 
-This project is a drag and drop file sender app that allows users to send files with ease.
+This project is a drag-and-drop file sender app that allows users to send files with ease.
 
 #### ✨ Key Features
 
 - Drag and drop file content
-- Toggle for overlay mode where it shows over the other windows
+- Toggle for overlay mode where it shows over other windows
 
 #### 🧠 What I Learned
 
-Since there is no package or ways to implement overlay toggle mode in Flutter, I had to create a custom package where it exports navtive mac os apis to simulate the overlay mode. I also learned a lot about how to handle files via drap and drop in Mac and how to send mails using Flutter.
+- Native macOS API integration via custom Flutter package
+- Drag-and-drop file handling on macOS
+- Email sending from Flutter
+
+<details>
+<summary>📝 Read more</summary>
+
+<br>
+
+Since there was no package or way to implement overlay toggle mode in Flutter, I had to create a custom package where it exports native macOS APIs to simulate the overlay mode. I also learned a lot about how to handle files via drag and drop on macOS and how to send mails using Flutter.
+
+</details>
 
 #### 🔗 Links
 
@@ -147,8 +230,8 @@ Since there is no package or ways to implement overlay toggle mode in Flutter, I
 
 #### 🖼 Preview
 
-<img width="495" height="834" alt="Home Page" src="https://github.com/user-attachments/assets/590d0271-0614-4b88-8349-d7ae84279d36" />
-<img width="495" height="834" alt="Email Config Page" src="https://github.com/user-attachments/assets/a6bbd6c3-3eb1-463f-a9e5-d4d1ac03985c" />
+![Home Page](https://github.com/user-attachments/assets/590d0271-0614-4b88-8349-d7ae84279d36)
+![Email Config Page](https://github.com/user-attachments/assets/a6bbd6c3-3eb1-463f-a9e5-d4d1ac03985c)
 
 ---
 
@@ -194,9 +277,18 @@ Small experimental apps, UI ideas, or feature prototypes.
 
 ---
 
-### 💡 Animeo - V2 (Dropped)
+### 💡 Animeo
 
-**Anime streaming app (scraping-based, experimental version)**
+<details>
+<summary>Anime Streaming App (scraping-based) — no longer maintained</summary>
+
+<br>
+
+> ⚠️ No longer maintained — preserved for reference.
+
+### V2 (Dropped)
+
+**Anime streaming app (scraping-based, experimental rewrite)**
 
 - 🛠 **Tech Stack:** Flutter, Web Scraping
 - 🎯 **Purpose:** Experimenting with scraping anime content and improving app architecture
@@ -229,9 +321,9 @@ An experimental version of Animeo that scrapes data from gogoanime.fi. This vers
 
 ---
 
-### 💡 Animeo V1 (Legacy)
+### V1 (Legacy)
 
-**Initial anime streaming app (no longer maintained)**
+**Initial anime streaming app**
 
 - 🛠 **Tech Stack:** Flutter, Web Scraping
 - 🎯 **Purpose:** First attempt at building a scraping-based anime app
@@ -261,13 +353,15 @@ The first version of Animeo that successfully implemented anime scraping and pla
 
 ![screenshot](https://user-images.githubusercontent.com/98591667/209700751-390a2105-7589-4aee-a9fc-c74f09dba49a.png)
 
+</details>
+
 ---
 
 ### 💡 LuckyWheel
 
 **Interactive lucky draw / spinner app**
 
-- 🛠 **Tech Stack:** Flutter, Web (Flutter Web)
+- 🛠 **Tech Stack:** Flutter, Flutter Web
 - 🎯 **Purpose:** Experimenting with animations and interactivity
 
 #### 📖 Overview
@@ -297,7 +391,7 @@ A fun lucky wheel app with smooth animations, available on both mobile and web.
 
 **Mind mapping app**
 
-- 🛠 **Tech Stack:** Flutter, Web (Flutter Web)
+- 🛠 **Tech Stack:** Flutter, Flutter Web
 - 🎯 **Purpose:** Exploring complex UI interactions and node-based structures
 
 #### 📖 Overview
@@ -352,7 +446,12 @@ A simple puzzle app focused on logic implementation and user interaction.
 
 ---
 
-## 📌 Notes
+## 📬 Contact
 
-- Some projects may be private or under development.
-- Feel free to reach out for more details!
+- 💼 **LinkedIn:** _[https://www.linkedin.com/in/htet-aung-shine-882a1a216/](https://www.linkedin.com/in/htet-aung-shine-882a1a216/)_
+- 📧 **Email:** _[htetaungshine20028@gmail.com](mailto:htetaungshine20028@gmail.com)_
+- 🌐 **Portfolio:** _[https://bylucas.tech/](https://bylucas.tech/)_
+
+---
+
+> 💡 _Open to freelance projects and interesting opportunities. Feel free to reach out!_
